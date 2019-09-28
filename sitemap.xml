@@ -3,14 +3,29 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://technicalhat.github.io/drinktober-web/posts.1/2019/day2/</loc>
+    <lastmod>2019-10-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://technicalhat.github.io/drinktober-web/posts/2019/day2/</loc>
     <lastmod>2019-10-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://technicalhat.github.io/drinktober-web/posts/</loc>
+    <loc>https://technicalhat.github.io/drinktober-web/posts.1/</loc>
     <lastmod>2019-10-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://technicalhat.github.io/drinktober-web/posts/2019/</loc>
+    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://technicalhat.github.io/drinktober-web/posts.1/2019/day1/</loc>
+    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -40,7 +55,42 @@
   </url>
   
   <url>
+    <loc>https://technicalhat.github.io/drinktober-web/posts/2018/day2/</loc>
+    <lastmod>2018-10-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://technicalhat.github.io/drinktober-web/posts/2018/</loc>
+    <lastmod>2018-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://technicalhat.github.io/drinktober-web/posts/2018/day1/</loc>
+    <lastmod>2018-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://technicalhat.github.io/drinktober-web/posts/2017/day2/</loc>
+    <lastmod>2017-10-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://technicalhat.github.io/drinktober-web/posts/2017/</loc>
+    <lastmod>2017-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://technicalhat.github.io/drinktober-web/posts/2017/day1/</loc>
+    <lastmod>2017-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://technicalhat.github.io/drinktober-web/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://technicalhat.github.io/drinktober-web/posts/</loc>
     <priority>0</priority>
   </url>
   
