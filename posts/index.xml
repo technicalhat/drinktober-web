@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on My New Hugo Site</title>
-    <link>http://example.org/posts/</link>
+    <link>https://technicalhat.github.io/drinktober-web/posts/</link>
     <description>Recent content in Posts on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 02 Oct 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://technicalhat.github.io/drinktober-web/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Jesse James IPA</title>
-      <link>http://example.org/posts/2019/day2/</link>
+      <link>https://technicalhat.github.io/drinktober-web/posts/2019/day2/</link>
       <pubDate>Wed, 02 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/2019/day2/</guid>
+      <guid>https://technicalhat.github.io/drinktober-web/posts/2019/day2/</guid>
       <description>Howdy there, pardners. For the second of #Drinktober, a quick raid of Aldi&amp;rsquo;s craft beer section yielded up this cowboy-themed American Pale Ale - seemed only right to dress for the occasion</description>
     </item>
     
     <item>
       <title>Jesse James IPA</title>
-      <link>http://example.org/posts/2019/day1/</link>
+      <link>https://technicalhat.github.io/drinktober-web/posts/2019/day1/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/2019/day1/</guid>
+      <guid>https://technicalhat.github.io/drinktober-web/posts/2019/day1/</guid>
       <description>So what&amp;rsquo;s this all about? Insert a couple of hundred words here explaining the concept.
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean nec dui vitae elit consequat porta. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Quisque congue tortor enim, at pulvinar nisl scelerisque ut. Curabitur tempus libero quam, eget placerat metus tristique luctus. Proin varius, dolor ac maximus interdum, eros elit gravida turpis, in consectetur nibh nulla sit amet metus.</description>
     </item>
