@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tests on My New Hugo Site</title>
+    <link>http://example.org/test/</link>
+    <description>Recent content in Tests on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 28 Sep 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/test/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>http://example.org/test/test-2/</link>
+      <pubDate>Sat, 28 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/test/test-2/</guid>
+      <description>So what&amp;rsquo;s this all about? Insert a couple of hundred words here explaining the concept.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean nec dui vitae elit consequat porta. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Quisque congue tortor enim, at pulvinar nisl scelerisque ut. Curabitur tempus libero quam, eget placerat metus tristique luctus. Proin varius, dolor ac maximus interdum, eros elit gravida turpis, in consectetur nibh nulla sit amet metus.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://example.org/test/test/</link>
+      <pubDate>Sat, 28 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/test/test/</guid>
+      <description>So what&amp;rsquo;s this all about? Insert a couple of hundred words here explaining the concept.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean nec dui vitae elit consequat porta. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Quisque congue tortor enim, at pulvinar nisl scelerisque ut. Curabitur tempus libero quam, eget placerat metus tristique luctus. Proin varius, dolor ac maximus interdum, eros elit gravida turpis, in consectetur nibh nulla sit amet metus.</description>
+    </item>
+    
+  </channel>
+</rss>
