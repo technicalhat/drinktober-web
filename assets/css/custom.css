@@ -13,3 +13,7 @@ dl.row > * {
     width:auto;
     margin: 0 auto;
 }
+video{
+    display: block;
+    width: 100%;
+}
