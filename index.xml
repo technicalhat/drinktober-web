@@ -11,5 +11,14 @@
 	<atom:link href="https://technicalhat.github.io/drinktober-web/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>Jesse James IPA</title>
+      <link>https://technicalhat.github.io/drinktober-web/posts/2019/day2/</link>
+      <pubDate>Wed, 02 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://technicalhat.github.io/drinktober-web/posts/2019/day2/</guid>
+      <description>Howdy there, pardners! For the second of #Drinktober, a quick raid of Aldi&amp;rsquo;s craft beer section yielded up this cowboy-themed American Pale Ale - seemed only right to dress for the occasion</description>
+    </item>
+    
   </channel>
 </rss>
