@@ -11,5 +11,24 @@
 	<atom:link href="https://drinktober.co.uk/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>Day 31 - Drinkoween!</title>
+      <link>https://drinktober.co.uk/posts/day-31-drinkoween/</link>
+      <pubDate>Tue, 31 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://drinktober.co.uk/posts/day-31-drinkoween/</guid>
+      <description>Bit of a spooky theme for the 31st of #Drinktober - it&amp;rsquo;s Drinkoween!
+Tonight I&amp;rsquo;m drinking Pumpking - evil pumpkin beer</description>
+    </item>
+    
+    <item>
+      <title>Day 20 - Cuba libre</title>
+      <link>https://drinktober.co.uk/posts/day-20-cuba-libre/</link>
+      <pubDate>Mon, 30 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://drinktober.co.uk/posts/day-20-cuba-libre/</guid>
+      <description>30th of #Drinktober - only one more day to go! Cuba Libre tonight, another premixed canned job :)</description>
+    </item>
+    
   </channel>
 </rss>
