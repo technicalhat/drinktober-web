@@ -13,7 +13,7 @@ dl.row > * {
     width:auto;
     margin: 0 auto;
 }
-.box.feature .image img
+.box.feature .image img{
     display: block;
     width: auto;
     border-radius: 8px;
