@@ -13,6 +13,14 @@ dl.row > * {
     width:auto;
     margin: 0 auto;
 }
+.box.feature .image img
+    display: block;
+    width: auto;
+    border-radius: 8px;
+    max-height: 100%;
+    max-width: 100%;
+    margin: 0 auto;
+}
 video{
     display: block;
     width: 100%;
