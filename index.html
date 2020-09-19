@@ -1,12 +1,26 @@
 <!DOCTYPE HTML>
 
 <html><title>Drinktober</title>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-178409002-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-178409002-1');
+  var captureOutboundLink = function(url) {
+   ga('send', 'event', 'outbound', 'click', url, {
+     'transport': 'beacon',
+     'hitCallback': function(){document.location = url;}
+   });
+</script>
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 <link rel="stylesheet" href='https://drinktober.co.uk/assets/css/main.css' />
 <link rel="stylesheet" href='https://drinktober.co.uk/assets/css/custom.css' />
 
-<meta name="keywords" content='drinktober, charity, sober october, alcohol,Heidi is going sober for October, Jonathan isn&#39;t, challenge, raising money, drink beer every day, soberhero, not so sober hero, being a jerk, cancer support, october, beer, drink all the beer, Macmillan Cancer Support'>
+<meta name="keywords" content='drinktober, charity, sober october, alcohol, raising money, drink beer every day, soberhero, not so sober hero, being a jerk, cancer support, october, beer, drink all the beer, Macmillan Cancer Support'>
 
 <meta name="description" content="">
 
@@ -17,7 +31,7 @@
 
 <meta property="og:description" content="">
 <meta property="og:url" content="https://drinktober.co.uk/">
-<meta property="og:site_name" content="Drinktober 2019">
+<meta property="og:site_name" content="Drinktober 2020">
 
 <meta property="og:image" content='https://drinktober.co.uk/calendar2018.jpg'>
 
@@ -56,30 +70,30 @@
 					</header>
 				</div>
 
-<div id="banner" class="box container">
+
+<section id="banner" class="box container">
         <div class="row">
-            <div class="col-7 col-12-small">
-                <h2>Heidi is going sober for October</h2>
+            <div class="col-3 col-7-large col-12-small">
+                <h1>Heidi is going sober for October</h1>
                 This is Heidi. Heidi is a nice person who&rsquo;s going sober for the month of October to raise money for charity. <a href="https://www.gosober.org.uk/users/heidi-victoria-ireland">You can sponsor her here</a>
             </div>
-            <div class="col-5 col-12-small">
+            <div class="col-3 col-5-large col-12-small">
                     <section>
                         <a href="#" class="image featured"><img src="heidi.jpg" alt="" /></a>
                     </section>
             </div>
-        </div>
-        <div class="row">
-            <div class="col-5 col-12-small">
+        
+            <div class="col-3 col-5-large col-12-small">
                 <section>
                     <a href="#" class="image featured"><img src="jonathan.jpg" alt="" /></a>
                 </section>
             </div>
-            <div class="col-7 col-12-small">
-                <h2>Her friend Jonathan... isn't</h2>
+            <div class="col-3 col-7-large col-12-small">
+                <h1>Her friend Jonathan... isn't</h1>
                 Jonathan here, on the other hand, is a bit of a dick. So by way of offering &ldquo;moral support&rdquo;, he&rsquo;ll be drinking a different beer every day in October, with the photos to prove it.
             </div>
         </div>
-    </div>
+    </section>
 			
     <div id="main-wrapper">
 
@@ -122,19 +136,22 @@
         <div id="footer-wrapper">
 
 <footer id="footer" class="container">
+    
     <div class="row">
+                
         <div class="col-12 text-center">
-            <a title="Sign up here to support Heidi!"  rel="nofollow" href="https://www.gosober.org.uk/users/heidi-victoria-ireland">
+            <a title="Sign up here to support Heidi!"  rel="nofollow" href="https://www.gosober.org.uk/">
                 <img alt="MacMillan Gosober banner" src='https://drinktober.co.uk/banner.jpg'/>
             </a>
         </div>
+        
         
     </div>
     <div class="row">
         <div class="col-12">
             <div id="copyright">
                 <ul class="menu">
-                    <li>&copy; 2019 Drinktober. All rights reserved</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+                    <li>&copy; 2020 Drinktober. All rights reserved</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
                 </ul>
             </div>
         </div>
@@ -150,4 +167,30 @@
     <script src='https://drinktober.co.uk/assets/js/breakpoints.min.js'></script>
     <script src='https://drinktober.co.uk/assets/js/util.js'></script>
     <script src='https://drinktober.co.uk/assets/js/main.js'></script>
+    
+
+<link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.css" />
+<script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.js"></script>
+<script>
+window.addEventListener("load", function(){
+window.cookieconsent.initialise({
+  "palette": {
+    "popup": {
+      "background": "#eaf7f7",
+      "text": "#5c7291"
+    },
+    "button": {
+      "background": "#56cbdb",
+      "text": "#ffffff"
+    }
+  },
+  "theme": "classic",
+  "content": {
+    "message": "Cookies? Yeah, we've got some. Is that cool?",
+    "dismiss": "Shut up and pour me a drink!",
+    "link": "I dunno..."
+  }
+})});
+</script>
+
 </html>

@@ -83,6 +83,24 @@ video{
     line-height: 21px;
     background-color: #ff4486;
 }
+
+#progress-banner .progress {
+    height: 8px;
+    background-color: #e5e5e5;
+    -webkit-box-shadow: none;
+    box-shadow: none
+}
+
+#progress-banner .progress-bar {
+    width: 0%;
+    height: 100%;
+    font-size: 13px;
+    line-height: 21px;
+    background-color: #ff4486;
+}
+#progress-banner .total{
+    text-align: center;
+}
 h3.raising-for{
 
     margin-bottom: 0;
@@ -145,4 +163,19 @@ h3.raising-for .heading-link {
 
 .btn.btn-primary {
   background-color: #ff4486;
+}
+
+.btn.btn-disabled {
+    background-color: #aaa;
+    pointer-events: none;
+    cursor: not-allowed;
+  }
+.homepage #banner h1{
+    font-size: 2.5em;
+    line-height: 1.25em;
+    margin: 0.1em 0 0.35em 0;
+}
+
+.mt-1{
+    margin-top:-1em;
 }
