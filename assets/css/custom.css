@@ -179,3 +179,49 @@ h3.raising-for .heading-link {
 .mt-1{
     margin-top:-1em;
 }
+
+.post_header{
+    margin-bottom: 1em;
+}
+.post_header .post_details{
+    display: inline-block;
+    vertical-align: top;
+}
+.post_header .author_thumb{
+    max-width: 100px;
+    max-height: 100px;
+    overflow: hidden;
+    display: inline-block;
+}
+.post_header .author_thumb img{
+    max-width: 100px;
+    max-height: 100px;
+    border-radius: 50%;
+}
+.box.feature {
+    position: relative;
+}
+/* .box.feature .image.featured{
+    min-height: 300px;
+} */
+.box.feature .feature_thumb{
+    position:absolute;
+    top: 0;
+    right:0;
+    width: 115px;
+    height: 115px;
+    max-width: 115px;
+    max-height: 115px;
+    overflow: hidden;
+}
+.box.feature .feature_thumb img{
+    display: block;
+    margin-top:5px;
+    margin-left:5px;
+    width: 100px;
+    height: 100px;
+    max-width: 100px;
+    max-height: 100px;
+    border-radius: 50%;
+    box-shadow: 0px 0px 10px #444
+}
