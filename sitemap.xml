@@ -3,17 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://drinktober.co.uk/12beers/2020/</loc>
+    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://drinktober.co.uk/posts/2020/the-end/</loc>
     <lastmod>2020-11-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://drinktober.co.uk/posts/it-is-done/</loc>
+    <loc>https://drinktober.co.uk/posts/2020/it-is-done/</loc>
     <lastmod>2020-11-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://drinktober.co.uk/posts/don-t-fear-the-reaper/</loc>
+    <loc>https://drinktober.co.uk/posts/2020/don-t-fear-the-reaper/</loc>
     <lastmod>2020-10-31T12:00:00+00:00</lastmod>
   </url>
   
@@ -23,7 +28,7 @@
   </url>
   
   <url>
-    <loc>https://drinktober.co.uk/posts/so-_close_/</loc>
+    <loc>https://drinktober.co.uk/posts/2020/so-_close_/</loc>
     <lastmod>2020-10-30T00:00:00+00:00</lastmod>
   </url>
   
@@ -48,7 +53,7 @@
   </url>
   
   <url>
-    <loc>https://drinktober.co.uk/posts/on-the-rocks/</loc>
+    <loc>https://drinktober.co.uk/posts/2020/on-the-rocks/</loc>
     <lastmod>2020-10-26T00:00:00+00:00</lastmod>
   </url>
   
@@ -63,7 +68,7 @@
   </url>
   
   <url>
-    <loc>https://drinktober.co.uk/posts/7-days-7-miles/</loc>
+    <loc>https://drinktober.co.uk/posts/2020/7-days-7-miles/</loc>
     <lastmod>2020-10-23T23:00:00+00:00</lastmod>
   </url>
   
@@ -73,7 +78,7 @@
   </url>
   
   <url>
-    <loc>https://drinktober.co.uk/posts/where-s-october/</loc>
+    <loc>https://drinktober.co.uk/posts/2020/where-s-october/</loc>
     <lastmod>2020-10-22T23:00:00+00:00</lastmod>
   </url>
   
@@ -83,7 +88,7 @@
   </url>
   
   <url>
-    <loc>https://drinktober.co.uk/posts/dark-passenger/</loc>
+    <loc>https://drinktober.co.uk/posts/2020/dark-passenger/</loc>
     <lastmod>2020-10-21T11:00:00+00:00</lastmod>
   </url>
   
@@ -93,12 +98,12 @@
   </url>
   
   <url>
-    <loc>https://drinktober.co.uk/posts/pub-ahoy/</loc>
+    <loc>https://drinktober.co.uk/posts/2020/pub-ahoy/</loc>
     <lastmod>2020-10-19T23:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://drinktober.co.uk/posts/so-tired.so-sober./</loc>
+    <loc>https://drinktober.co.uk/posts/2020/so-tired.so-sober/</loc>
     <lastmod>2020-10-19T23:00:00+00:00</lastmod>
   </url>
   
@@ -113,7 +118,7 @@
   </url>
   
   <url>
-    <loc>https://drinktober.co.uk/posts/i-am-a-machine/</loc>
+    <loc>https://drinktober.co.uk/posts/2020/i-am-a-machine/</loc>
     <lastmod>2020-10-17T23:00:00+00:00</lastmod>
   </url>
   
@@ -128,7 +133,7 @@
   </url>
   
   <url>
-    <loc>https://drinktober.co.uk/posts/please-god-give-me-a-gin/</loc>
+    <loc>https://drinktober.co.uk/posts/2020/please-god-give-me-a-gin/</loc>
     <lastmod>2020-10-15T11:00:00+00:00</lastmod>
   </url>
   
@@ -143,7 +148,7 @@
   </url>
   
   <url>
-    <loc>https://drinktober.co.uk/posts/well-jesus-christ/</loc>
+    <loc>https://drinktober.co.uk/posts/2020/well-jesus-christ/</loc>
     <lastmod>2020-10-13T23:00:00+00:00</lastmod>
   </url>
   
@@ -274,11 +279,6 @@
   
   <url>
     <loc>https://drinktober.co.uk/posts/2019/day-31-drinkoween/</loc>
-    <lastmod>2019-10-31T01:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://drinktober.co.uk/posts/day-31-drinkoween/</loc>
     <lastmod>2019-10-31T01:00:00+00:00</lastmod>
   </url>
   
@@ -495,6 +495,11 @@
   <url>
     <loc>https://drinktober.co.uk/posts/</loc>
     <lastmod>2019-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://drinktober.co.uk/about/</loc>
+    <lastmod>2019-09-28T12:07:00+00:00</lastmod>
   </url>
   
   <url>
@@ -820,6 +825,11 @@
   <url>
     <loc>https://drinktober.co.uk/posts/2017/</loc>
     <lastmod>2017-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://drinktober.co.uk/12beers/</loc>
+    <lastmod>2012-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
