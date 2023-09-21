@@ -99,7 +99,7 @@ input, select, textarea {
 		font-size: 13pt;
 		color: #696969;
 		font-weight: 300;
-		line-height: 2.25em;
+		line-height: 1.5em;
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {

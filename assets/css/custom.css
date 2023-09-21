@@ -179,6 +179,25 @@ h3.raising-for .heading-link {
     line-height: 1.25em;
     margin: 0.1em 0 0.35em 0;
 }
+.homepage .homepage-header h1{
+    font-size: 2.5em;
+    line-height: 1.25em;
+    margin: 0.1em 0 0.35em 0;
+}
+.homepage #banner .image.featured{
+    text-align: right;
+}
+.homepage #banner .image.featured.left{
+    text-align: left;
+}
+.homepage #banner .image.featured img{
+    max-height: 300px;
+    width:auto;
+    display: inline-block;
+}
+.homepage #banner p{
+    margin-bottom:.5em;
+}
 
 .mt-1{
     margin-top:-1em;
@@ -289,4 +308,9 @@ section h1{
     max-height: 50px;
     border-radius: 50%;
     box-shadow: 0px 0px 10px #444
+}
+article p, section p{
+    font-size: 16pt;
+    margin-bottom: .5em;
+    line-height: 1.5em;
 }

@@ -2,6 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://drinktober.co.uk/posts/2023/back-to-the-beercave/</loc>
+    <lastmod>2023-09-20T23:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://drinktober.co.uk/posts/2023/</loc>
+    <lastmod>2023-09-01T00:00:00+01:00</lastmod>
+  </url><url>
     <loc>https://drinktober.co.uk/posts/2022/we-did-it/</loc>
     <lastmod>2022-10-31T23:00:00+00:00</lastmod>
   </url><url>
@@ -596,6 +602,9 @@
     <loc>https://drinktober.co.uk/posts/2019/day-2-5-miles-off-the-ground/</loc>
     <lastmod>2019-10-02T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://drinktober.co.uk/posts/</loc>
+    <lastmod>2019-10-01T15:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://drinktober.co.uk/posts/2019/day-1-5-meanwhile-on-planet-heidi/</loc>
     <lastmod>2019-10-01T01:00:00+00:00</lastmod>
   </url><url>
@@ -603,9 +612,6 @@
     <lastmod>2019-10-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://drinktober.co.uk/posts/2019/</loc>
-    <lastmod>2019-10-01T00:00:00+01:00</lastmod>
-  </url><url>
-    <loc>https://drinktober.co.uk/posts/</loc>
     <lastmod>2019-10-01T00:00:00+01:00</lastmod>
   </url><url>
     <loc>https://drinktober.co.uk/about/</loc>
