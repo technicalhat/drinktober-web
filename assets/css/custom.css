@@ -196,27 +196,32 @@ h3.raising-for .heading-link {
     display: inline-block;
 }
 .homepage #banner p{
-    margin-bottom:.5em;
+    margin-bottom:.5em; 
 }
-
+.homepage hr{
+    border-top: solid 1px #666;
+}
 .mt-1{
     margin-top:-1em;
 }
 
-.post_header{
+.post_header{ 
     margin-bottom: 1em;
 }
-.post_header .post_details{
+.post_header .post_details, .homepage article.post .post_details{
     display: inline-block;
     vertical-align: top;
 }
-.post_header .author_thumb{
+.homepage article.post .post_details dl{
+    width:400px;
+}
+.post_header .author_thumb, .homepage article.post .author_thumb{
     max-width: 100px;
     max-height: 100px;
     overflow: hidden;
     display: inline-block;
 }
-.post_header .author_thumb img{
+.post_header .author_thumb img, .homepage article.post .author_thumb img{
     max-width: 100px;
     max-height: 100px;
     border-radius: 50%;
