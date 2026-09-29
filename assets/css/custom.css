@@ -215,6 +215,9 @@ h3.raising-for .heading-link {
 .homepage article.post .post_details dl{
     width:400px;
 }
+.homepage #features-wrapper .box.container{
+    margin-bottom: 1em;
+}
 .post_header .author_thumb, .homepage article.post .author_thumb{
     max-width: 100px;
     max-height: 100px;
