@@ -1,11 +1,17 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Drinktober archives on Drinktober 2026</title>
-    <link>https://drinktober.co.uk/posts/</link>
-    <description>Recent content in Drinktober archives on Drinktober 2026</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Tue, 01 Oct 2019 15:00:00 +0000</lastBuildDate><atom:link href="https://drinktober.co.uk/posts/index.xml" rel="self" type="application/rss+xml" />
-  </channel>
+	<channel>
+		<title>Drinktober archives on Drinktober 2026</title>
+		<link>https://drinktober.co.uk/posts/</link>
+		<description>Recent content in Drinktober archives on Drinktober 2026</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate></lastBuildDate>
+		
+			<atom:link href="https://drinktober.co.uk/posts/index.xml" rel="self" type="application/rss+xml" />
+	</channel>
 </rss>
